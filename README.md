@@ -48,7 +48,7 @@ The system uses:
 
 * XGBoost Regressor
 * XGBoost Classifier
-* K-Means Clustering ✅
+* K-Means Clustering 
 
 ---
 
@@ -149,31 +149,12 @@ The Streamlit dashboard allows users to:
 
 ---
 
-# 📂 Project Structure
-
-```bash
-Tourism-Recommendation-System/
-│
-├── app.py
-├── tourism_model.ipynb
-├── tourism_dataset.csv
-├── requirements.txt
-├── README.md
-│
-└── models/
-    ├── regression_model.pkl
-    ├── classification_model.pkl
-    └── clustering_model.pkl
-```
-
----
-
-# 🛠 Technologies Used
+# Technologies Used
 
 ## 💻 Software
 
 * VS Code
-* Jupyter Notebook
+* pgadmin
 
 ---
 
@@ -233,40 +214,6 @@ Attraction ID: 201
 
 ---
 
-# ▶️ Run the Project
-
-## 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/your-username/tourism-recommendation-system.git
-```
-
----
-
-## 2️⃣ Navigate to Project Folder
-
-```bash
-cd tourism-recommendation-system
-```
-
----
-
-## 3️⃣ Install Required Libraries
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 4️⃣ Run Streamlit App
-
-```bash
-streamlit run app.py
-```
-
----
-
 # 💼 Business Use Cases
 
 * Personalized Travel Recommendations
@@ -297,17 +244,6 @@ streamlit run app.py
 
 ---
 
-# 🔮 Future Improvements
-
-✔ Deep Learning Recommendation System
-✔ Collaborative Filtering
-✔ Hybrid Recommendation Engine
-✔ Cloud Deployment
-✔ Real-Time API Integration
-✔ User Authentication
-
----
-
 # 📌 Conclusion
 
 This project demonstrates a complete **end-to-end Machine Learning workflow** including:
@@ -326,7 +262,7 @@ The system provides an intelligent tourism recommendation solution capable of pr
 
 # 👨‍💻 Author
 
-S Joe
+S Archippu Blessing Joe
 
 ---
 
