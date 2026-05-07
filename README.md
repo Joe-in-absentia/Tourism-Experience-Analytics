@@ -31,14 +31,14 @@ The system uses:
 
 # 🚀 Features
 
-✔ Tourist Rating Prediction
-✔ Visit Mode Classification
-✔ Attraction Recommendation System
-✔ Feature Engineering
-✔ Class Imbalance Handling using SMOTE
-✔ Interactive User Input
-✔ Real-Time Predictions
-✔ Streamlit-based Dashboard
+* Tourist Rating Prediction
+* Visit Mode Classification
+* Attraction Recommendation System
+* Feature Engineering
+* Class Imbalance Handling using SMOTE
+* Interactive User Input
+* Real-Time Predictions
+* Streamlit-based Dashboard
 
 ---
 
