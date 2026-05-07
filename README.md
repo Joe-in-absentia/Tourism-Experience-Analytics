@@ -175,45 +175,6 @@ The Streamlit dashboard allows users to:
 
 ---
 
-# 📈 Example User Input
-
-| Input              | Example |
-| ------------------ | ------- |
-| Continent ID       | 3       |
-| Region ID          | 10      |
-| Attraction Type ID | 5       |
-| Visit Month        | 6       |
-
----
-
-# 🎯 Example Output
-
-## ⭐ Predicted Rating
-
-```bash
-4.32
-```
-
----
-
-## 👨‍👩‍👧 Predicted Visit Mode
-
-```bash
-Family
-```
-
----
-
-## 🌍 Recommended Attractions
-
-```bash
-Attraction ID: 145
-Attraction ID: 78
-Attraction ID: 201
-```
-
----
-
 # 💼 Business Use Cases
 
 * Personalized Travel Recommendations
