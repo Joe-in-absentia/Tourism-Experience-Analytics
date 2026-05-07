@@ -85,10 +85,10 @@ Recommendations are generated based on:
 
 ## 1️⃣ Data Preprocessing
 
-✔ Handling Missing Values
-✔ Feature Engineering
-✔ Encoding Categorical Data
-✔ Feature Scaling
+* Handling Missing Values
+* Feature Engineering
+* Encoding Categorical Data
+* Feature Scaling
 
 ---
 
