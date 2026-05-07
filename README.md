@@ -1,6 +1,7 @@
 # 🌍 Tourism Recommendation System
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
+![SQL](https://img.shields.io/badge/Database-SQL-green)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-XGBoost-green)
 ![Clustering](https://img.shields.io/badge/Clustering-KMeans-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
