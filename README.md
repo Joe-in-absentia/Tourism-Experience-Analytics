@@ -138,7 +138,7 @@ These features improve prediction accuracy and recommendation quality.
 
 ---
 
-# 🖥 Streamlit Dashboard
+# Streamlit Dashboard
 
 The Streamlit dashboard allows users to:
 
