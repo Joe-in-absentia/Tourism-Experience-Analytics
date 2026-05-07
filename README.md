@@ -150,25 +150,25 @@ The Streamlit dashboard allows users to:
 ---
 # 📸 Dashboard Screenshots
 
-##  Main Streamlit Dashboard
+## 🔹 Main Streamlit Dashboard
 
 ![Main Dashboard](https://github.com/your-username/tourism-recommendation-system/blob/main/images/dashboard.png)
 
 ---
 
-## ⭐ Rating Prediction
+## 🔹 Rating Prediction
 
 ![Rating Prediction](https://github.com/your-username/tourism-recommendation-system/blob/main/images/rating_prediction.png)
 
 ---
 
-## 👨‍👩‍👧 Visit Mode Prediction
+## 🔹 Visit Mode Prediction
 
 ![Visit Mode Prediction](https://github.com/your-username/tourism-recommendation-system/blob/main/images/visit_mode.png)
 
 ---
 
-## 🌍 Attraction Recommendations
+## 🔹 Attraction Recommendations
 
 ![Recommendations](https://github.com/your-username/tourism-recommendation-system/blob/main/images/recommendations.png)
 
