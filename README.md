@@ -149,7 +149,7 @@ The Streamlit dashboard allows users to:
 ✔ Get recommended attractions instantly
 
 ---
-# 📸 Dashboard Screenshots
+#  Dashboard Screenshots
 
 ## 🔹 Main Streamlit Dashboard
 
@@ -177,20 +177,20 @@ The Streamlit dashboard allows users to:
 
 # Technologies Used
 
-## 💻 Software
+##  Software
 
 * VS Code
 * pgadmin
 
 ---
 
-## 👨‍💻 Programming Language
+##  Programming Language
 
 * Python
 
 ---
 
-## 📚 Python Libraries
+##  Python Libraries
 
 * Pandas
 * NumPy
@@ -201,7 +201,7 @@ The Streamlit dashboard allows users to:
 
 ---
 
-# 💼 Business Use Cases
+#  Business Use Cases
 
 * Personalized Travel Recommendations
 * Smart Tourism Platforms
@@ -227,7 +227,7 @@ The Streamlit dashboard allows users to:
 
 | Metric   | Score |
 | -------- | ----- |
-| Accuracy | ~50%  |
+| Accuracy | ~51%  |
 
 ---
 
