@@ -153,7 +153,7 @@ The Streamlit dashboard allows users to:
 
 ## 🔹 Main Streamlit Dashboard
 
-![Main Dashboard](https://github.com/your-username/tourism-recommendation-system/blob/main/images/dashboard.png)
+![Main Dashboard](https://github.com/Joe-in-absentia/Tourism-Experience-Analytics/blob/0823538256fce9ee59772e6b6b87ae57238e59b3/image1.png)
 
 ---
 
