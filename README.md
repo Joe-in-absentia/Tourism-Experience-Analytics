@@ -218,8 +218,8 @@ The Streamlit dashboard allows users to:
 
 | Metric   | Score |
 | -------- | ----- |
-| RMSE     | ~0.92 |
-| R² Score | ~0.10 |
+| MAE      | ~0.27 |
+| R² Score | ~0.73 |
 
 ---
 
