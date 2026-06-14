@@ -165,7 +165,7 @@ The Streamlit dashboard allows users to:
 
 ## 🔹 Visit Mode Prediction
 
-![Visit Mode Prediction](https://github.com/your-username/tourism-recommendation-system/blob/main/images/visit_mode.png)
+![Visit Mode Prediction](https://github.com/Joe-in-absentia/Tourism-Experience-Analytics/blob/cddeaba0bb107bbcdd8a6c4dd87f29b34870b9e0/image3.png)
 
 ---
 
