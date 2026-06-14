@@ -159,7 +159,7 @@ The Streamlit dashboard allows users to:
 
 ## 🔹 Rating Prediction
 
-![Rating Prediction](https://github.com/your-username/tourism-recommendation-system/blob/main/images/rating_prediction.png)
+![Rating Prediction](https://github.com/Joe-in-absentia/Tourism-Experience-Analytics/blob/987ae56ade17378d43c8abbae734b7e5ea937118/image4.png)
 
 ---
 
