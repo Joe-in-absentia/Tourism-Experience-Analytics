@@ -171,7 +171,7 @@ The Streamlit dashboard allows users to:
 
 ## 🔹 Attraction Recommendations
 
-![Recommendations](https://github.com/your-username/tourism-recommendation-system/blob/main/images/recommendations.png)
+![Recommendations](https://github.com/Joe-in-absentia/Tourism-Experience-Analytics/blob/52d7fc20feb7262fc3f5654094aa614bfad619e4/image2.png)
 
 ---
 
