@@ -30,7 +30,7 @@ The system uses:
 
 ---
 
-# 🚀 Features
+#  Features
 
 * Tourist Rating Prediction
 * Visit Mode Classification
@@ -43,7 +43,7 @@ The system uses:
 
 ---
 
-# 🤖 Machine Learning
+#  Machine Learning
 
 ## Models Used
 
@@ -53,7 +53,7 @@ The system uses:
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 ### Regression Metrics
 
@@ -139,7 +139,7 @@ These features improve prediction accuracy and recommendation quality.
 
 ---
 
-# 📈 Streamlit Dashboard
+#  Streamlit Dashboard
 
 The Streamlit dashboard allows users to:
 
@@ -252,7 +252,3 @@ The system provides an intelligent tourism recommendation solution capable of pr
 S Archippu Blessing Joe
 
 ---
-
-# 📜 License
-
-This project is for educational and research purposes.
